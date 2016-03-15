@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is a website of my cases that i have make in my years as a graphic designer
-datePublished: '2016-03-15T12:59:37.706Z'
-dateModified: '2016-03-15T12:58:55.946Z'
+datePublished: '2016-03-15T13:00:28.539Z'
+dateModified: '2016-03-15T12:59:43.917Z'
 title: Welcome to my portfolio
 author: []
 authors: []
@@ -30,11 +30,9 @@ I have been studying graphic design since the beginning 2011, and i'm not planin
 
 Work aside. I enjoy Swimming, Dancing, Concerts...any kind of social activities, and singing out loud in public.
 
-Well, now that you know me a bit... I would love to hear if you are thinking about any projects or ideas that would be suitable for me, and if you do, then just drop me a
-
-[message.][0]
+Well, now that you know me a bit... I would love to hear if you are thinking about any projects or ideas that would be suitable for me, and if you do, then just drop me a [message.][0]
 
 (i'm a nice person, i promise)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8508b7c-0f86-4558-92ba-16eb6199c697.jpg)
 
-[0]: http://sjdesign.me/html/Contact.html
+[0]: steffen.sunke@gmail.com
