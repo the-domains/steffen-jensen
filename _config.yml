@@ -1,0 +1,28 @@
+name: Steffen jensen
+favicon: null
+layout_spectrum: 0.8007921322714537
+typography_spectrum: 0.29827417479828
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9121191536542028
+  lightness: 0.41407958907075226
+  saturation: 0.07293348223902285
+  rhythmicContrast: 0.8931403018068522
+purpose: []
