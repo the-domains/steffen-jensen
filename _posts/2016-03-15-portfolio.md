@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Portfolio - camp bisco\_"
-datePublished: '2016-03-15T12:33:59.900Z'
-dateModified: '2016-03-15T12:30:05.267Z'
+datePublished: '2016-03-15T12:36:10.957Z'
+dateModified: '2016-03-15T12:34:10.143Z'
 title: Camp bisco
 author: []
 sourcePath: _posts/2016-03-15-portfolio.md
