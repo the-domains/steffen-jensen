@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Portfolio - camp bisco\_"
-datePublished: '2016-03-15T12:29:58.378Z'
-dateModified: '2016-03-15T12:29:55.336Z'
+datePublished: '2016-03-15T12:33:59.900Z'
+dateModified: '2016-03-15T12:30:05.267Z'
 title: Camp bisco
 author: []
 sourcePath: _posts/2016-03-15-portfolio.md
