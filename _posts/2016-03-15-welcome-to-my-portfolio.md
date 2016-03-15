@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: This is a website of my cases that i have make in my years as a graphic designer
-datePublished: '2016-03-15T13:00:28.539Z'
-dateModified: '2016-03-15T12:59:43.917Z'
+description: "I'm a Graphic Designer from Denmark, and i have created digital and printed artwork since 2009. With a case folder bigger than anyone at my age, with 300+ cases worldwide including countries as: America, Canada, Australia, Vietnam, Iraq, Denmark, Germany, Austria, United Kingdome, Norway and Sweeden."
+datePublished: '2016-03-15T13:01:42.171Z'
+dateModified: '2016-03-15T13:00:55.617Z'
 title: Welcome to my portfolio
 author: []
+sourcePath: _posts/2016-03-15-welcome-to-my-portfolio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-welcome-to-my-portfolio.md
-published: true
 url: welcome-to-my-portfolio/index.html
 _type: Article
 
