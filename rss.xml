@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Steffen jensen]]></title>
         <description><![CDATA[Steffen jensen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/steffen-jensen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 12:17:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 12:17:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/steffen-jensen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Camp bisco]]></title>
-            <description><![CDATA[<article><h1>Camp bisco</h1><p>Portfolio - camp bisco </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87becbe5-50be-4a13-abae-9acfb06e365b.jpg"></article>]]></description>
-            <link>undefinedcamp-bisco/index.html</link>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02f8723b-27fb-4410-b16d-76a99fa6a3f4.jpg">]]></description>
+            <link>https://thegrid.ai/steffen-jensen/camp-bisco/index.html</link>
             <guid isPermaLink="false">5cfb2e2a-faae-435c-8350-488a5806f4e0</guid>
-            <pubDate>Tue, 15 Mar 2016 12:17:41 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 12:16:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
