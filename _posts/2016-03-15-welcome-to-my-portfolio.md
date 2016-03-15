@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I'm a Graphic Designer from Denmark, and i have created digital and printed artwork since 2009. With a case folder bigger than anyone at my age, with 300+ cases worldwide including countries as: America, Canada, Australia, Vietnam, Iraq, Denmark, Germany, Austria, United Kingdome, Norway and Sweeden."
-datePublished: '2016-03-15T13:01:42.171Z'
-dateModified: '2016-03-15T13:00:55.617Z'
+datePublished: '2016-03-15T13:03:15.126Z'
+dateModified: '2016-03-15T13:01:51.177Z'
 title: Welcome to my portfolio
 author: []
 sourcePath: _posts/2016-03-15-welcome-to-my-portfolio.md
