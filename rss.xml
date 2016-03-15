@@ -4,21 +4,21 @@
         <description><![CDATA[Steffen jensen portfolio]]></description>
         <link>https://thegrid.ai/steffen-jensen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 12:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 12:34:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/steffen-jensen/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Drowned poster ]]></title>
-            <description><![CDATA[<article><h1>Drowned poster </h1><p>This poster was a fun thing for a projekt </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0da03fd0da6c7da25db612f770d7e396480410ae.jpg"></article>]]></description>
-            <link>https://thegrid.ai/steffen-jensen/drowned-poster/index.html</link>
-            <guid isPermaLink="false">08884a67-2ebf-42a1-9c8c-5468dc80b19e</guid>
-            <pubDate>Tue, 15 Mar 2016 12:32:35 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Camp bisco]]></title>
             <description><![CDATA[<article><h1>Camp bisco</h1><p>Portfolio - camp bisco </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5b0e11943c6d960db7dc79a4fd16ee365e43efe.jpg"></article>]]></description>
             <link>https://thegrid.ai/steffen-jensen/camp-bisco/index.html</link>
             <guid isPermaLink="false">5cfb2e2a-faae-435c-8350-488a5806f4e0</guid>
-            <pubDate>Tue, 15 Mar 2016 12:29:58 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 12:33:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drowned poster ]]></title>
+            <description><![CDATA[<article><h1>Drowned poster </h1><p>This poster was a fun thing for a projekt </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56cbd7e6e4f0eef76f7c96cd429413eda9340a5d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/steffen-jensen/drowned-poster/index.html</link>
+            <guid isPermaLink="false">08884a67-2ebf-42a1-9c8c-5468dc80b19e</guid>
+            <pubDate>Tue, 15 Mar 2016 12:32:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
