@@ -1,6 +1,6 @@
-name: Steffen jensen
+name: Steffen jensen portfolio
 favicon: null
-layout_spectrum: 0.22871
+layout_spectrum: 1
 typography_spectrum: 0.8844
 title: Steffen jensen portfolio
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#001020'
-    - '#0b3043'
-    - '#1f4751'
-    - '#2a5a68'
-    - '#456c7b'
+    - '#9a8d7d'
+    - '#bbb3a8'
+    - '#d4d8e1'
+    - '#544b46'
+    - '#19110f'
   brandStrength: 0.9121191536542028
   lightness: 0.41407958907075226
   saturation: 0.07293348223902285
