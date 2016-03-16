@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_I'm a Graphic Designer from Denmark, and i have created digital and printed artwork since 2009. With a case folder bigger than anyone at my age, with 300+ cases worldwide including countries as: America, Canada, Australia, Vietnam, Iraq, Denmark, Germany, Austria, United Kingdome, Norway and Sweeden.\_"
-datePublished: '2016-03-16T07:15:49.704Z'
-dateModified: '2016-03-16T06:26:04.404Z'
-title: "Steffen S. Jensen\_"
+datePublished: '2016-03-16T10:03:31.382Z'
+dateModified: '2016-03-16T10:03:28.558Z'
+title: "About me\_"
 author: []
 sourcePath: _posts/2016-03-16-steffen-s-jensen.md
 published: true
@@ -22,9 +22,9 @@ url: steffen-s-jensen/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf59229de1188ee36e7666dcb4c6174a7f000616.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ae28948-0c16-446f-a796-0ed0629e8338.jpg)
 
-# Steffen S. Jensen 
+# About me 
 
 I'm a Graphic Designer from Denmark, and i have created digital and printed artwork since 2009\. With a case folder bigger than anyone at my age, with **300+ cases worldwide** including countries as: America, Canada, Australia, Vietnam, Iraq, Denmark, Germany, Austria, United Kingdome, Norway and Sweeden. 
 
